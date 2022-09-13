@@ -1,5 +1,5 @@
-<h1>llo guys my name is solomon dickson sheshinbwa</h1>
-
+<h1>hello guys my name is solomon dickson sheshinbwa</h1>
+<p> am a developer in Nigeria</p>
 
 
 
